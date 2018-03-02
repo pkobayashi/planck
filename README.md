@@ -1,9 +1,11 @@
-# planck
-Training Wheel keycaps for the Planck keyboard, as seen on Reddit,
+# ut47
+Training Wheel keycaps for the UT47 (aka: GNAP!) keyboard, as seen on Reddit,
 https://www.reddit.com/r/MechanicalKeyboards/comments/7ztupy/training_wheels/
+https://www.reddit.com/r/mechmarket/comments/817wwi/gb_ut47_wallet_friendly_40_new_site_parts/
+http://www.40percent.club/2017/08/gnap-plates.html
 
 Order your own set here,
-http://www.wasdkeyboards.com/index.php/products/keycap-set/105-key-iso-cherry-mx-keycap-set.html
+http://www.wasdkeyboards.com/index.php/products/keycap-set/104-key-cherry-mx-keycap-set.html
 
 Don't forget to set the keycap colors!  There should be 32 light grey, 13 dark grey, and one orange, and one blue (although, really, you can do whatever you want).
 All the black keys are unused (the only useful ones are the six R3-profile ones in the top-right).
@@ -11,4 +13,7 @@ All the black keys are unused (the only useful ones are the six R3-profile ones 
 This shows the keycap heights of the different rows (important if you want to move the keys around).
 https://support.wasdkeyboards.com/hc/en-us/articles/115009701328-Keycap-Size-Compatibility
 
-Notably, "F" and "J" are the homing keys (they're R2-profile with lines).  Also, the "Enter" key and the blue and orange keys are R2-profile keys, even though they should be R1-profile (but there aren't enough R1 keys).  It actually works, because it makes them stand out--and also, the "Enter" key has the dot, which makes it especially noticeable.
+Notably, "F" and "J" are the homing keys (they're R2-profile with lines), and the "Enter" key has the dot.
+
+If you don't mind the bottom row not being all R1-profile, you can can also print the 61-key set,
+http://www.wasdkeyboards.com/index.php/products/keycap-set/61-key-cherry-mx-keycap-set.html
