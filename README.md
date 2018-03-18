@@ -12,3 +12,6 @@ This shows the keycap heights of the different rows (important if you want to mo
 https://support.wasdkeyboards.com/hc/en-us/articles/115009701328-Keycap-Size-Compatibility
 
 Notably, "F" and "J" are the homing keys (they're R2-profile with lines).  Also, the "Enter" key and the blue and orange keys are R2-profile keys, even though they should be R1-profile (but there aren't enough R1 keys).  It actually works, because it makes them stand out--and also, the "Enter" key has the dot, which makes it especially noticeable.
+
+And here's the layout,
+http://www.keyboard-layout-editor.com/#/gists/70fd8b3067c3b2ac3f16c82d3cbe02fe
