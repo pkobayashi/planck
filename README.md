@@ -17,3 +17,6 @@ Notably, "F" and "J" are the homing keys (they're R2-profile with lines), and th
 
 If you don't mind the bottom row not being all R1-profile, you can can also print the 61-key set,
 http://www.wasdkeyboards.com/index.php/products/keycap-set/61-key-cherry-mx-keycap-set.html
+
+Here's the link to the layout,
+http://www.keyboard-layout-editor.com/#/gists/b21cc55946cb2cd7055c22a3adaa47c7
