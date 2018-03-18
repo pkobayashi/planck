@@ -19,7 +19,12 @@ If you don't mind the bottom row not being all R1-profile, you can can also prin
 
 
 
-Here's the step by step instructions:
+And here's the layout,
+http://www.keyboard-layout-editor.com/#/gists/b21cc55946cb2cd7055c22a3adaa47c7
+
+
+
+Here's the step by step instructions for ordering these caps from maxkeyboard.com:
 1. Go to the ANSI Layout Custom Cherry MX Keycap Set,
 http://www.maxkeyboard.com/ansi-layout-custom-color-cherry-mx-keycap-set.html
 2. For Keycap Layout, select “ANSI 104-key (FULL SIZE) (+$5.00)”.
