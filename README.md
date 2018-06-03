@@ -20,3 +20,6 @@ http://www.wasdkeyboards.com/index.php/products/keycap-set/61-key-cherry-mx-keyc
 
 Here's the link to the layout,
 http://www.keyboard-layout-editor.com/#/gists/b21cc55946cb2cd7055c22a3adaa47c7
+
+The TMK firmware to program the UT47 to match the keycaps can be found here,
+https://github.com/pkobayashi/tmk_keyboard-master
