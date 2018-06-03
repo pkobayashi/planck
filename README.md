@@ -22,6 +22,9 @@ If you don't mind the bottom row not being all R1-profile, you can can also prin
 And here's the layout,
 http://www.keyboard-layout-editor.com/#/gists/b21cc55946cb2cd7055c22a3adaa47c7
 
+The TMK firmware to program the UT47 to match the keycaps can be found here,
+https://github.com/pkobayashi/tmk_keyboard-master
+
 
 
 Here's the step by step instructions for ordering these caps from maxkeyboard.com:
